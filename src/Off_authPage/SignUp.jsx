@@ -32,22 +32,22 @@ export default function SignUpForm({ isActive, onSignInClick }) {
 
     try {
       // Updated API endpoint to /signup
-      const response = await fetch(`${baseAPIUrl}/auth/sign_up`, {
-        method: 'POST',
-        body: formData,
-      });
+      // const response = await fetch(`${baseAPIUrl}/auth/sign_up`, {
+      //   method: 'POST',
+      //   body: formData,
+      // });
       
-      const result = await response.json();
+      // const result = await response.json();
 
-      if (!response.ok) {
-        setMessage(result.detail || 'Failed to sign up.');
-        setMessageType('error');
-        return;
-      }
+      // if (!response.ok) {
+      //   setMessage(result.detail || 'Failed to sign up.');
+      //   setMessageType('error');
+      //   return;
+      // }
 
       // Handle success
-      localStorage.setItem('token', result.access_token);
-      setMessage(`Account created for ${result.user_id}!`);
+      // localStorage.setItem('token', result.access_token);
+      // setMessage(`Account created for ${result.user_id}!`);
       setMessageType('success');
       
       // Navigate to dashboard after successful signup

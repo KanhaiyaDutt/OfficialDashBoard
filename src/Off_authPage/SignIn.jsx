@@ -31,25 +31,26 @@ export default function SignInForm({ isActive, onSignUpClick }) {
     formData.append('passkey', passkey);
 
     try {
-      const response = await fetch(`${baseAPIUrl}/auth/sign_in`, {
-        method: 'POST',
-        body: formData,
-      });
+    //   const response = await fetch(`${baseAPIUrl}/auth/sign_in`, {
+    //     method: 'POST',
+    //     body: formData,
+    //   });
       
-      const result = await response.json();
+    //   const result = await response.json();
 
-      if (!response.ok) {
-        setMessage(result.detail || 'Failed to sign in.');
-        setMessageType('error');
-        return;
-      }
+    //   if (!response.ok) {
+    //     setMessage(result.detail || 'Failed to sign in.');
+    //     setMessageType('error');
+    //     return;
+    //   }
 
       // Handle success
-      const userId = result.user_id;
+      // const userId = result.user_id;
     //   localStorage.setItem('token', result.access_token);
     //   console.log('Login successful:', result.access_token);
       
-      setMessage(`Successfully logged in: ${result.user_id}`);
+      // setMessage(`Successfully logged in: ${result.user_id}`);
+      setMessage(`Successfully logged in`);
       setMessageType('success');
       
       navigate(`/dashboard`);

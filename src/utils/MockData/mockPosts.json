@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Oceanic Sentinel",
+    "handle": "OceanSentinel",
+    "text": "Did you know that **plastic pollution** isn't just ugly? It's a deadly threat to marine life, with millions of tons entering our oceans each year. #PlasticPollution #SaveOurSeas",
+    "timestamp": "1h",
+    "replies": 15,
+    "retweets": 45,
+    "likes": 120,
+    "views": "3.1K"
+  },
+  {
+    "name": "Marine Watch",
+    "handle": "MarineWatch",
+    "text": "Rising sea temperatures, a result of **climate change**, are causing coral bleaching on a massive scale. We must act now to protect these vital ecosystems. 🌡️ #CoralBleaching #ClimateCrisis",
+    "timestamp": "3h",
+    "replies": 22,
+    "retweets": 60,
+    "likes": 150,
+    "views": "4.5K"
+  },
+  {
+    "name": "Deep Blue Defense",
+    "handle": "DeepBlueDefense",
+    "text": "The danger of **ghost nets** is real! Abandoned fishing gear continues to trap and kill marine animals long after it's lost. Support cleanup efforts! #GhostNets #MarineLife",
+    "timestamp": "5h",
+    "replies": 10,
+    "retweets": 30,
+    "likes": 95,
+    "views": "2.8K"
+  },
+  {
+    "name": "Seascape Savers",
+    "handle": "SeascapeSavers",
+    "text": "Overfishing is depleting our oceans at an alarming rate. By choosing **sustainable seafood**, we can help maintain healthy fish populations. 🐟 #Overfishing #SustainableLiving",
+    "timestamp": "7h",
+    "replies": 18,
+    "retweets": 50,
+    "likes": 130,
+    "views": "3.9K"
+  },
+  {
+    "name": "Aqua Alert",
+    "handle": "AquaAlert",
+    "text": "Be cautious of **harmful algal blooms** (HABs), also known as red tides. They can be toxic to marine life and humans. #AlgalBlooms #OceanSafety",
+    "timestamp": "9h",
+    "replies": 8,
+    "retweets": 25,
+    "likes": 75,
+    "views": "2.2K"
+  },
+  {
+    "name": "Tide Guardians",
+    "handle": "TideGuardians",
+    "text": "Illegal and unregulated fishing practices are a major threat to ocean biodiversity. We need stronger international laws to combat this. ⚖️ #IUUFishing #OceanConservation",
+    "timestamp": "11h",
+    "replies": 20,
+    "retweets": 55,
+    "likes": 140,
+    "views": "4.1K"
+  },
+  {
+    "name": "Ocean Health Now",
+    "handle": "OceanHealthNow",
+    "text": "Did you know **ocean acidification** is a direct result of increased CO2 in the atmosphere? This threatens shellfish and coral. #OceanAcidification #ClimateChange",
+    "timestamp": "13h",
+    "replies": 25,
+    "retweets": 70,
+    "likes": 180,
+    "views": "5.5K"
+  },
+  {
+    "name": "Coastal Crusaders",
+    "handle": "CoastalCrusaders",
+    "text": "Oil spills can devastate marine ecosystems for decades. Let's support renewable energy and stronger regulations to prevent future disasters. 🌊 #OilSpill #RenewableEnergy",
+    "timestamp": "15h",
+    "replies": 30,
+    "retweets": 80,
+    "likes": 200,
+    "views": "6.8K"
+  },
+  {
+    "name": "Blue Planet Advocates",
+    "handle": "BluePlanetAdvo",
+    "text": "Noise pollution from shipping and sonar disrupts the communication and migration of whales and dolphins. Let's work to create quieter seas. 🐳 #NoisePollution #Whales",
+    "timestamp": "17h",
+    "replies": 12,
+    "retweets": 40,
+    "likes": 110,
+    "views": "3.5K"
+  },
+  {
+    "name": "Sea Shepherd",
+    "handle": "SeaShepherdGlobal",
+    "text": "The illegal wildlife trade, especially for species like sharks and sea turtles, is a serious threat. Report suspicious activity! #IllegalWildlifeTrade #StopTheTrade",
+    "timestamp": "19h",
+    "replies": 40,
+    "retweets": 90,
+    "likes": 250,
+    "views": "7.5K"
+  },
+  {
+    "name": "Ocean Protection Force",
+    "handle": "OPF",
+    "text": "Coastal development is destroying vital habitats like mangroves and salt marshes that protect against storm surges and provide nurseries for marine life. #CoastalDevelopment #HabitatLoss",
+    "timestamp": "21h",
+    "replies": 14,
+    "retweets": 35,
+    "likes": 90,
+    "views": "2.9K"
+  },
+  {
+    "name": "Marine Conservation Society",
+    "handle": "MCSUK",
+    "text": "The rise of **dead zones** in our oceans, areas with no oxygen, is a major problem caused by agricultural runoff and sewage. We need better water treatment. #DeadZones #WaterPollution",
+    "timestamp": "23h",
+    "replies": 28,
+    "retweets": 75,
+    "likes": 190,
+    "views": "6.1K"
+  },
+  {
+    "name": "Sustainable Seas",
+    "handle": "SustainSeas",
+    "text": "Microplastics are everywhere, from the deepest ocean trenches to the fish we eat. This invisible threat to ocean life and human health is growing. #Microplastics #CleanSeas",
+    "timestamp": "1d",
+    "replies": 35,
+    "retweets": 85,
+    "likes": 210,
+    "views": "7.2K"
+  },
+  {
+    "name": "The Coral Foundation",
+    "handle": "CoralFound",
+    "text": "Protecting coral reefs is crucial! These 'rainforests of the sea' are home to 25% of all marine species, but they are highly vulnerable to ocean hazards. #CoralReefs #Biodiversity",
+    "timestamp": "1d",
+    "replies": 16,
+    "retweets": 48,
+    "likes": 155,
+    "views": "4.8K"
+  },
+  {
+    "name": "Whale and Dolphin Conservation",
+    "handle": "WDCUK",
+    "text": "Entanglement in fishing gear is a major threat to whales and dolphins. Let's support responsible fishing practices. 🐋 #Whales #Dolphins",
+    "timestamp": "1d",
+    "replies": 20,
+    "retweets": 65,
+    "likes": 170,
+    "views": "5.9K"
+  },
+  {
+    "name": "Global Ocean Trust",
+    "handle": "GlobalOceanTrust",
+    "text": "Deep-sea mining poses a significant threat to unexplored ecosystems and species. We must proceed with caution and prioritize conservation over exploitation. #DeepSeaMining #OceanHazards",
+    "timestamp": "1d",
+    "replies": 19,
+    "retweets": 52,
+    "likes": 145,
+    "views": "4.3K"
+  },
+  {
+    "name": "Protect Our Oceans",
+    "handle": "ProtectOceans",
+    "text": "The spread of invasive species through ballast water is a silent but serious threat to marine biodiversity. We need stricter regulations on shipping. #InvasiveSpecies #OceanConservation",
+    "timestamp": "1d",
+    "replies": 11,
+    "retweets": 38,
+    "likes": 105,
+    "views": "3.0K"
+  },
+  {
+    "name": "Sea Life Savers",
+    "handle": "SeaLifeSavers",
+    "text": "Chemical runoff from agriculture and industry pollutes our oceans, creating a toxic environment for marine life and disrupting the food chain. #ChemicalPollution #CleanWater",
+    "timestamp": "1d",
+    "replies": 24,
+    "retweets": 68,
+    "likes": 165,
+    "views": "5.4K"
+  },
+  {
+    "name": "Ocean Cleanup Crew",
+    "handle": "OceanCleanup",
+    "text": "Cleaning up the Great Pacific Garbage Patch is a huge challenge, but every piece of plastic removed makes a difference. Join a local beach cleanup! 🚮 #OceanCleanup #PlasticFree",
+    "timestamp": "2d",
+    "replies": 50,
+    "retweets": 120,
+    "likes": 300,
+    "views": "9.8K"
+  },
+  {
+    "name": "Shark Alliance",
+    "handle": "SharkAlliance",
+    "text": "Shark finning is a brutal practice that decimates shark populations, which are vital for maintaining a healthy ocean ecosystem. #SharkFinning #SaveTheSharks",
+    "timestamp": "2d",
+    "replies": 29,
+    "retweets": 78,
+    "likes": 205,
+    "views": "6.7K"
+  },
+  {
+    "name": "Marine Sanctuaries",
+    "handle": "MarineSanctuaries",
+    "text": "Protecting marine areas is essential. **Marine protected areas** (MPAs) allow ecosystems to recover and flourish. We need more of them! #MPAs #OceanProtection",
+    "timestamp": "2d",
+    "replies": 13,
+    "retweets": 43,
+    "likes": 115,
+    "views": "3.6K"
+  },
+  {
+    "name": "Ocean Health Initiative",
+    "handle": "OceanHealth",
+    "text": "Sediment runoff from construction and deforestation smothers coral reefs and seagrass beds, destroying critical habitats. #SedimentRunoff #HabitatDestruction",
+    "timestamp": "2d",
+    "replies": 9,
+    "retweets": 33,
+    "likes": 85,
+    "views": "2.7K"
+  },
+  {
+    "name": "Blue Climate",
+    "handle": "BlueClimate",
+    "text": "The melting of polar ice caps leads to a rise in sea level, threatening coastal communities and ecosystems worldwide. 🧊 #SeaLevelRise #GlobalWarming",
+    "timestamp": "2d",
+    "replies": 27,
+    "retweets": 72,
+    "likes": 185,
+    "views": "6.0K"
+  },
+  {
+    "name": "Coastal Watch",
+    "handle": "CoastalWatch",
+    "text": "Beaches are eroding at an unprecedented rate due to rising seas and human activity. Let's protect our coasts! #BeachErosion #CoastalConservation",
+    "timestamp": "2d",
+    "replies": 17,
+    "retweets": 47,
+    "likes": 135,
+    "views": "4.2K"
+  },
+  {
+    "name": "Ocean Pulse",
+    "handle": "OceanPulse",
+    "text": "The cumulative impact of all these hazards is overwhelming our oceans. We need to work together to reduce our footprint and restore marine health. #OceanCrisis #ActNow",
+    "timestamp": "2d",
+    "replies": 32,
+    "retweets": 88,
+    "likes": 220,
+    "views": "7.9K"
+  },
+  {
+    "name": "Save The Sea",
+    "handle": "SaveTheSea",
+    "text": "Pollution from cruise ships, including sewage and chemical waste, is a growing problem. We need stricter regulations for marine tourism. 🚢 #CruiseShipPollution #MarineTourism",
+    "timestamp": "3d",
+    "replies": 18,
+    "retweets": 55,
+    "likes": 150,
+    "views": "4.7K"
+  },
+  {
+    "name": "Deep Ocean Society",
+    "handle": "DeepOceanSoc",
+    "text": "The vastness of the deep ocean doesn't make it immune to human impact. Pollution and climate change affect even the most remote trenches. #DeepOcean #OceanHazards",
+    "timestamp": "3d",
+    "replies": 10,
+    "retweets": 35,
+    "likes": 95,
+    "views": "2.8K"
+  },
+  {
+    "name": "Future Oceans",
+    "handle": "FutureOceans",
+    "text": "Education is key to ocean conservation. Teach your friends and family about the importance of reducing single-use plastic and protecting our seas! #OceanLiteracy #PlasticFree",
+    "timestamp": "3d",
+    "replies": 25,
+    "retweets": 60,
+    "likes": 160,
+    "views": "5.0K"
+  },
+  {
+    "name": "Ocean Conservation League",
+    "handle": "OCL",
+    "text": "Threatened species like the sea turtle are on the brink of extinction due to entanglement, plastic ingestion, and habitat loss. Let's protect them. 🐢 #SeaTurtles #EndangeredSpecies",
+    "timestamp": "3d",
+    "replies": 30,
+    "retweets": 80,
+    "likes": 200,
+    "views": "6.5K"
+  },
+  {
+    "name": "The Plastic Tide",
+    "handle": "ThePlasticTide",
+    "text": "From the smallest plankton to the largest whale, **plastic pollution** is now part of the marine food chain. What can you do to help? #PlasticPollution #SaveTheOcean",
+    "timestamp": "3d",
+    "replies": 45,
+    "retweets": 100,
+    "likes": 250,
+    "views": "8.5K"
+  }
+]

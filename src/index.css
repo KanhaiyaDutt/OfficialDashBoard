@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+
+
+/* Define the keyframe animation for subtle vertical movement */
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-8px); /* Moves up 8px */
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+/* Apply the animation */
+.animate-float {
+  animation: float 3s ease-in-out infinite; /* 3 seconds duration, smooth, infinite loop */
+}
+
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.5s ease-out forwards;
+}
+
+/* dark mode */
+
+@custom-variant dark (&:where(.dark, .dark *));

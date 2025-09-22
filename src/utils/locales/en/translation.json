@@ -1,0 +1,108 @@
+{
+  "navbar": {
+    "logoAlt": "Company Logo",
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact",
+    "signIn": "Sign In",
+    "signUp": "Sign Up"
+  },
+  "hero": {
+    "title": "Guardians of the Coast",
+    "subtitle": "Join INCOIS by reporting ocean hazards in real-time. Your observations help protect our communities and save lives.",
+    "reportButton": "Report an Event",
+    "mapButton": "View Live Map"
+  },
+  "contact": {
+    "title": "Contact & Key Agencies",
+    "subtitle": "Connect with our team or find contact information for critical national and state-level stakeholders.",
+    "formTitle": "Get in Touch",
+    "formNamePlaceholder": "Your Name",
+    "formEmailPlaceholder": "Your Email",
+    "formMessagePlaceholder": "Your Message",
+    "formSubmitButton": "Send Message",
+    "emailLinkText": "Email",
+    "websiteLinkText": "Website",
+    "sdmaTitle": "State Disaster Management Authorities (SDMAs)",
+    "sdmaDescription": "SDMAs and District Collectors are crucial for on-the-ground decisions. Find their contact details by searching online for \"[State Name] SDMA\".",
+    "agencies": {
+      "incois": {
+        "name": "Indian National Centre for Ocean Information Services (INCOIS)",
+        "relevance": "The primary stakeholder for Tsunami and Ocean State Forecasts. Our platform directly supplements their warning systems."
+      },
+      "ndma": {
+        "name": "National Disaster Management Authority (NDMA)",
+        "relevance": "The apex body for disaster management in India. Our data integrates into their national situational awareness tools."
+      },
+      "imd": {
+        "name": "India Meteorological Department (IMD)",
+        "relevance": "The principal agency for weather forecasting. Our data helps validate their cyclone and storm surge forecasts."
+      },
+      "icg": {
+        "name": "Indian Coast Guard (ICG)",
+        "relevance": "A key first responder for maritime incidents. They can use our data to identify and rescue those in distress."
+      }
+    }
+  },
+  "services": {
+    "title": "Our Services: A Platform for Everyone",
+    "subtitle": "We build bridges between communities and authorities with tailored tools for every role.",
+    "tabs": {
+      "citizens": "Citizens",
+      "agencies": "Agencies",
+      "researchers": "Researchers"
+    },
+    "content": {
+      "citizens": {
+        "title": "For Citizens & Coastal Volunteers",
+        "subtitle": "Become the eyes and ears of your coast. Your local knowledge is our greatest strength.",
+        "features": [
+          { "title": "Report What You See, Instantly", "description": "See unusual waves or flooding? Use our simple app to send geotagged photos and alerts in seconds. Your report can be the first official warning." },
+          { "title": "Stay Informed and Safe", "description": "Access a live, interactive map of verified incidents and community reports in your area. Know what’s happening, where it’s happening." },
+          { "title": "Make a Real Difference", "description": "Your contributions directly help authorities understand the real-world impact of a hazard, enabling a faster, more effective response." }
+        ]
+      },
+      "agencies": {
+        "title": "For Disaster Management & Government Agencies",
+        "subtitle": "Gain clarity in crisis. Transform raw data into life-saving decisions.",
+        "features": [
+          { "title": "Get the Complete Picture", "description": "Our unified dashboard integrates real-time citizen reports and social media intelligence onto a single map for unparalleled situational awareness." },
+          { "title": "Act with Speed and Precision", "description": "Use dynamic hotspot analysis to instantly identify critical areas, verify incidents, and deploy resources where they're needed most." },
+          { "title": "Understand Public Needs", "description": "Our NLP engine analyzes public sentiment, helping you combat misinformation and communicate more effectively with affected populations." }
+        ]
+      },
+      "researchers": {
+        "title": "For Researchers & Scientific Institutions",
+        "subtitle": "Harness community data for a more resilient future.",
+        "features": [
+          { "title": "Access Unique Datasets", "description": "Gain access to a rich, anonymized repository of crowdsourced observational data on coastal events and public response patterns." },
+          { "title": "Validate and Enhance Models", "description": "Leverage thousands of real-world data points to validate, refine, and improve the accuracy of predictive ocean and climate models." }
+        ]
+      }
+    }
+  },
+  "about": {
+    "title": "When the Ocean Threatens, Every Sighting Matters.",
+    "subtitle": "We are the bridge across the critical gap between a scientific forecast and the real-time reality our communities face.",
+    "problem": {
+      "title": "The Problem",
+      "description": "During ocean emergencies, authorities have the data, but communities have the live view. On-the-ground reports are often delayed or lost, and the public’s voice on social media goes untapped."
+    },
+    "solution": {
+      "title": "Our Solution",
+      "features": [
+        { "title": "Citizen Reporting", "description": "Submit geotagged reports, photos, and videos of ocean hazards directly through the app." },
+        { "title": "Live Dashboard", "description": "Visualize real-time crowdsourced data and social media trends on a dynamic, interactive map." },
+        { "title": "Social Media Integration", "description": "Our NLP engine analyzes social media feeds to detect hazard-related discussions and public sentiment." },
+        { "title": "Enhanced Awareness", "description": "Empower emergency responders with faster, more accurate situational awareness." }
+      ]
+    },
+    "impact": {
+      "title": "The Impact",
+      "description": "We deliver a live, interactive map of developing situations to authorities. This allows them to validate threats faster, understand the scale of an event, and deploy resources where they are needed most—saving lives and property."
+    },
+    "ctaButton": "See Our Platform in Action"
+  }
+
+}
